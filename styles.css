@@ -294,9 +294,6 @@ a:focus {
 a:active {
   color: #002663;
 }
-
-
-
 .about-section {
   display: flex;
   align-items: flex-start;
