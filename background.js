@@ -1,4 +1,4 @@
-const images = ["images/BS1.jpeg", "images/BS2.jpeg", "images/BS3.jpeg", "images/BS4.jpeg", "images/BS5.jpeg"];
+const images = ["BS1.jpeg", "BS2.jpeg", "BS3.jpeg", "BS4.jpeg", "BS5.jpeg"];
 let index = 0;
 const slideshowDiv = document.getElementById("background-slideshow");
 
