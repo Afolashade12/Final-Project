@@ -335,27 +335,27 @@ a:active {
     height: 300px;
   }
 }
-@media (max-width: 480px) {
+@media only screen (max-width: 480px) {
   nav ul li {
     font-size: 0.95rem;
   }
   header {
-    padding: 0.6rem 0;
+    padding: 1rem 0;
   }
   header h1 {
     font-size: 1.3rem;
-    margin: 0.3rem 0.5rem;
-  }
-  /* If your nav links or logo exist within header */
-  header nav, header .logo {
-    /* Stack elements vertically or reduce spacing */
+    margin: 0.5rem 1rem;
     display: flex;
     flex-direction: column;
     align-items: center;
   }
-}
+  
+   
+    
+  
 
-}
+
+
 
 
 
