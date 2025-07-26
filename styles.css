@@ -344,12 +344,9 @@ a:active {
     flex-direction: row;
     align-items: center;
   }
-  header {
+  header h1 {
     padding: 1rem 0;
-.faq h2 {
-    margin: 2rem;
-   }
-  
+
    
     
   
