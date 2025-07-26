@@ -346,9 +346,12 @@ a:active {
     font-size: 1.3rem;
     margin: 0.5rem 1rem;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
   }
+   header h2 {
+    margin: 2rem;
+   }
   
    
     
