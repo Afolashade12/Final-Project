@@ -335,7 +335,7 @@ a:active {
     height: 300px;
   }
 }
-@media only screen (max-width: 480px) {
+@media (max-width: 480px) {
   nav ul li {
     font-size: 0.95rem;
   }
